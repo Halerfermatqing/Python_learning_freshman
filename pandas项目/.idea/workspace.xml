@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00ae21d7-16b8-4270-bfa3-e1c02e4af6ca" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="bfd2e0c8-f566-499f-976d-1f94ea5a86a6" />
+  <component name="ProjectId" id="1jYA6zVQUodif9gC0rW6Un8u4GW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="matplotlib上课" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python第三方库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Haler\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python第三方函数" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python第三方函数/matplotlib上课.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.matplotlib上课" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ae21d7-16b8-4270-bfa3-e1c02e4af6ca" name="默认更改列表" comment="" />
+      <created>1603970480713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603970480713</updated>
+      <workItem from="1603970485110" duration="1175000" />
+      <workItem from="1603979155499" duration="23000" />
+      <workItem from="1604565488748" duration="149000" />
+      <workItem from="1608205689933" duration="81000" />
+      <workItem from="1608215419018" duration="605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="52" key="#matplotlib上课" timestamp="1603970659016">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="527" y="52" key="#matplotlib上课/0.0.1549.831@0.0.1549.831" timestamp="1603970659016" />
+    <state width="1506" height="213" key="GridCell.Tab.0.bottom" timestamp="1608205770853">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1608205770853" />
+    <state width="1506" height="213" key="GridCell.Tab.0.center" timestamp="1608205770853">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1608205770853" />
+    <state width="1506" height="213" key="GridCell.Tab.0.left" timestamp="1608205770853">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1608205770853" />
+    <state width="1506" height="213" key="GridCell.Tab.0.right" timestamp="1608205770853">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1608205770853" />
+    <state x="286" y="61" key="SettingsEditor" timestamp="1603970831129">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="286" y="61" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1603970831129" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pandas$matplotlib.coverage" NAME="matplotlib上课 Coverage Results" MODIFIED="1608205760647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python第三方函数" />
+  </component>
+</project>
